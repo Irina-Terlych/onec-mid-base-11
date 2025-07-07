@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dc0bbbd6-30fc-4a77-85a6-890ae6716bda">
+  <producedTypes>
+    <objectType typeId="11ef6f49-9f0a-4eb4-bf00-1b69bf676d4d" valueTypeId="d1d32e8d-a4e7-414d-9763-223b5caf1642"/>
+    <refType typeId="83690a66-8b35-424b-a75f-309434dde787" valueTypeId="965d2897-8887-4618-b71f-1a77c789552b"/>
+    <selectionType typeId="ff548071-2e88-4199-a75a-2c950d2f5326" valueTypeId="52e8c3de-15f4-4b45-9a73-6a3df540f055"/>
+    <listType typeId="dd4f11cd-4865-41c2-ab0e-0f49a2fb872d" valueTypeId="4fb01489-cbe5-43b7-b77e-536b6a6403c6"/>
+    <managerType typeId="d79729cf-8861-4bb9-bc04-02e61ef9ec90" valueTypeId="2f19b8c8-2bb1-4093-93c3-617fcca3ff00"/>
+  </producedTypes>
+  <name>Блок2_ДолжностиКонтактныхЛиц</name>
+  <synonym>
+    <key>ru</key>
+    <value>Блок2 должности контактных лиц</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Блок2_ДолжностиКонтактныхЛиц.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Блок2_ДолжностиКонтактныхЛиц.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Должность контактного лица</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Должности контактных лиц</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
