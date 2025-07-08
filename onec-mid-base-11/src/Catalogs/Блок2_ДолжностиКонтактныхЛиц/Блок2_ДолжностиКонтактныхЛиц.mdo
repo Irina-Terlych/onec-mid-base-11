@@ -10,7 +10,7 @@
   <name>Блок2_ДолжностиКонтактныхЛиц</name>
   <synonym>
     <key>ru</key>
-    <value>Блок2 должности контактных лиц</value>
+    <value>Должности контактных лиц</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Блок2_ДолжностиКонтактныхЛиц.StandardAttribute.Code</inputByString>
